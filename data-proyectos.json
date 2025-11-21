@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Proyecto 1",
+    "descripcion": "Descripción del proyecto 1",
+    "area": "Interior",
+    "materiales": [
+      "madera",
+      "pintura"
+    ],
+    "fecha": "2024-01-01",
+    "imagen": "assets/img1.jpg",
+    "link": "#"
+  },
+  {
+    "titulo": "Proyecto 2",
+    "descripcion": "Descripción del proyecto 2",
+    "area": "Exterior",
+    "materiales": [
+      "WPC",
+      "pintura"
+    ],
+    "fecha": "2024-02-01",
+    "imagen": "assets/img2.jpg",
+    "link": "#"
+  }
+]
